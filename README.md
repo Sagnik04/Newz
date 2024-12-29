@@ -2,15 +2,21 @@
 
 A new Flutter project.
 
-## Getting Started
+# Newz - Flutter News Application
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Newz is a Flutter-based news application that provides the latest news updates from various categories. It is designed using Flutter Bloc as the state management solution and follows the principles of Clean Architecture for better scalability and maintainability.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1) Latest News Updates: Fetch news articles from multiple categories.
+
+2) Responsive UI: Fully responsive design that works seamlessly on both Android and iOS.
+
+3) State Management with Flutter Bloc: Manages the state of the application efficiently with the Bloc pattern.
+
+4) Clean Architecture: Implements a layered approach to separate concerns, making the app easy to maintain and extend.
+
+5) Error Handling: Graceful error messages and fallback mechanisms.
+   
+Note that the api_service directory is not included in this repository, as it contains sensitive API keys. To maintain security, API keys are excluded from version control.
