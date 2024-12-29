@@ -11,12 +11,12 @@ Features:
 
 1) Latest News Updates: Fetch news articles from multiple categories.
 
-2) Responsive UI: Fully responsive design that works seamlessly on both Android and iOS.
+2) Responsive UI: Fully responsive design that works seamlessly on both Android.
 
 3) State Management with Flutter Bloc: Manages the state of the application efficiently with the Bloc pattern.
 
 4) Clean Architecture: Implements a layered approach to separate concerns, making the app easy to maintain and extend.
 
-5) Error Handling: Graceful error messages and fallback mechanisms.
+5) REST API Integration: This application fetches news articles using a REST API, ensuring real-time updates from various news sources.
    
 Note: The api_service directory is not included in this repository, as it contains sensitive API keys. To maintain security, API keys are excluded from version control.
