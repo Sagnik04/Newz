@@ -19,4 +19,4 @@ Features:
 
 5) Error Handling: Graceful error messages and fallback mechanisms.
    
-Note that the api_service directory is not included in this repository, as it contains sensitive API keys. To maintain security, API keys are excluded from version control.
+Note:The api_service directory is not included in this repository, as it contains sensitive API keys. To maintain security, API keys are excluded from version control.
