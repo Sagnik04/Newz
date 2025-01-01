@@ -11,7 +11,7 @@ Features:
 
 1) Latest News Updates: Fetch news articles from multiple categories.
 
-2) Responsive UI: Fully responsive design that works seamlessly on both Android.
+2) Responsive UI: Fully responsive design that works seamlessly.
 
 3) State Management with Flutter Bloc: Manages the state of the application efficiently with the Bloc pattern.
 
